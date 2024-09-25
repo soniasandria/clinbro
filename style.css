@@ -1,0 +1,77 @@
+@font-face { font-family: 'Gotham Book';
+    src: url("fonts/Gotham-Book.eot") format("embedded-opentype"), url("fonts/Gotham-Book.woff") format("woff"), url("fonts/Gotham-Book.ttf") format("truetype"), url("fonts/Gotham-Book.svg") format("svg");}
+body{
+	font-family: "Gotham Book";
+}
+h1{
+	text-align: center;
+	color: #0066b3;
+	font-family: "Gotham Book";
+	font-size: 18px;
+	margin: 105px 0px 45px 0px;
+}
+button{
+	font-family: "Gotham Book";
+	font-size: 13px;
+	color: #FFFFFF;
+	height: 45px;
+	width: 95%;
+	text-align: center;
+	border-radius: 30px;
+	border: none;
+	background-color: #0066b3;
+	margin-top: 15px;
+}
+input{
+	font-family: "Gotham Book";
+	width: 95%;
+	height: 36px;
+	font-size: .9rem;
+	color: #333333;
+	padding: 8px;
+	border-radius: 3px;
+	border: 1px solid;
+	border-color: #ccc;
+	margin-top: 5px;
+	outline: none;
+	background-color: #f9f9f9;
+}
+span{
+	font-family: "Gotham Book";
+	font-size: 11px;
+	color: #666;
+	opacity: .8;
+	margin-block-end: 0px;
+}
+p{
+	text-align: left;
+	font-size: 14.6px;
+    margin-left: 9px;
+    margin-top: 9px;
+    margin-bottom: 0px;
+}
+select{
+	font-family: "Gotham Book";
+	color: #333333;
+	width: 95%;
+	height: 36px;
+	font-size: .9rem;
+	padding: 8px;
+	border-radius: 3px;
+	border: 1px solid;
+	border-color: #ddd;
+	margin-top: 5px;
+	outline: none;
+	background-color: #f9f9f9;
+}
+#cs{
+	color: #0066b3;
+	font-size: 14.6px;
+}
+#footer {
+    width: 100%;
+    height: 65px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
